@@ -1,0 +1,16 @@
+モデル
+　データ
+   　カラム名：データ型
+　　title:string
+　　text:text
+　　name:string
+モデル名
+　　user
+
+
+コントローラー
+コントローラー名
+ 　　users
+アクション
+　create
+  index
