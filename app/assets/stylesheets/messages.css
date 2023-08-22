@@ -93,11 +93,11 @@
   margin: 10px 0px 40px;
 }
 
-.message-upper{
+.upper-message{
   display: flex;
 }
 
-.message-lower{
+.lower-message{
   margin-top: 10px;
 }
 
@@ -106,7 +106,7 @@
   color: #434A54;
 }
 
-.chat-day{
+.message-date{
   margin-left: 10px;
   font-size: 12px;
   color: #999;
@@ -138,14 +138,14 @@
   display: flex;
 }
 
-.message-text{
+.form-message{
   padding-left: 10px;
   width: 100%;
   height: 50px;
   border: none;
 }
 
-.submit-btn{
+.form-submit{
   background-color: #38AEF0;
   color: white;
   font-size: 16px;
